@@ -1,0 +1,55 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+    background-color:lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-weight:bolder;
+}
+
+.headshot {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    background-color:antiquewhite;
+    text-align: center;
+    padding: 4px;
+    list-style: none;
+}
+
+.Career {
+    width: 1200px;
+    padding: 2px;
+    border: 5px solid white;
+    margin: 0;
+    margin: auto;
+}
+
+.Resume {
+    width: 1200px;
+    padding: 2px;
+    border: 5px solid white;
+    margin: 0;
+    margin: auto;
+}
+
+.Values {
+    width: 1200px;
+    padding: 2px;
+    border: 5px solid white;
+    margin: 0;
+    margin: auto;
+}
+
+.WhatIDo {
+    width: 1200px;
+    padding: 2px;
+    border: 5px solid white;
+    margin: 0;
+    margin: auto;
+}
