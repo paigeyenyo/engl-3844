@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+    <head> 
+        <link rel="stylesheet" href="styles.css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap;n,i,b,bi" rel="stylesheet">
+        <h1> Paige Yenyo </h1>
+    </head>
+
+    <body>
+
+        <section class="AboutMe">
+            <img src="headshot.JPG" alt="headshot" class="headshot"
+                width = "300" 
+                height = "300">
+        </section>       
+
+        <section class="Career">
+            <h3>Career Objectives </h3>
+                <p> My career objectives are to become a technical writer for a technology or intelligence company, or possibly becoming a scrum master.</p>
+        </section>
+
+        <section class="Resume">  
+            <h3> Related Professional Experiences </h3>
+                <h4><em>Technical Writing Intern for the <a href="https://www.vtti.vt.edu/" >Virginia Tech Trasnportation Institute</a> Oct 2022 - Present</em></h4>
+                    <p> I am going to be onboarded for this posistion soon. I will be working on grant proposals and editing documents. </p>
+                <h4><em>Advisory Board Member for the <a href="https://liberalarts.vt.edu/departments-and-schools/department-of-english/academic-programs/english-major.html">English</a> and <a href="https://liberalarts.vt.edu/academics/majors-and-minors/professional-and-technical-writing-major.html">Professional and Technical Writing</a> Depts., Sept 2022 - Present</em></h4>
+                    <p> I meet monthly with other students in the English and PTW departments to discuss potential changes to the majors.<p>
+                <h4><em>Teaching Assistant for <a href="https://www.clementecourse.org/" >Clemente Courses in the Humanities,</a> Feb 2022 - Present</em></h4>
+                    <p>I am a Teaching Assistant for Dialogues on the Experiences of War. I help US veterans use our Canvas site, as well as discuss literature and art as it pertains to war and service in our class. </p>
+                <h4><em>President of <a href="https://www.epsilonsigmaalpha.org/Homepage>" >Epsilon Sigma Alpha,</a> Sept 2019 - Present</em><h4>
+                    <p>I am the current President of Epsilon Sigma Alpha, a coed community service organization at VT. I hold weekly meetings and do community service with members around Blacksburg and Christiansburg.</p>
+                <h4><em>Product Documentation Intern for HealthEdge Software, May - Aug 2022</em></h4>
+                    <p>I helped write Release Notes in Madcap Flare, a structured authoring tool. The Release Notes pertained to healthcare software and got sent to clients once a month.</p>
+                <h4><em>Climate Action and Grants Department Intern for Seaside Sustainability, Jan - Jun 2022</em></h4>
+                    <p>I wrote one article a month for Seaside's newsletter on climate change, which had roughly 5,000 readers at the time. I also helped write grant proposals and get information on schools around the country for more volunteers for Seaside.</p>
+                <h4><em>Student Intern for Naomi Press, Jan - May 2022</em></h4>
+                    <p>I helped organize inventory and write book reviews for a small literary press in Blacksburg, VA.</p>     
+        </section>
+
+        <section class="Values">
+            <h3> Values, Regards, and Aspirations </h3>
+                <p>I value working hard to acheive my goals, and timely results. I value correct and succinct writing, and a fun work environment that has always has new things for me to try.</p>
+        </section>
+
+        <section class="WhatIDo">
+            <h3> What I Do </h3>
+                <p> Currently I am onboarding for an internship with the Virginia Tech Transportation Institute, and am an undergraduate Teaching Assistant in a class for veterans. My TA job involves two main tasks:  </p>
+                    <ol>
+                        <li> Updating the Canvas site with weekly syllabus information </li>
+                        <li> Helping the students in class navigate Zoom, Canvas, and the final project </li>
+                    </ol>
+        </section>
+
+        <footer> Get in touch with me! 
+                <li> <a href = "mailto: paigey@vt.edu"><em>paigey@vt.edu</em></a></li> 
+                <li> <a href=https://www.linkedin.com/in/paige-yenyo-247b751a0/ ><em>LinkedIn</em></a> </li>
+            </footer>
+
+    </body>
+</html>
